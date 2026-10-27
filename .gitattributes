@@ -8,3 +8,6 @@ CS[[:space:]]major[[:space:]]courses/** -text
 CS[[:space:]]major[[:space:]]courses/模式识别与机器学习/模式识别6道作业题.zip filter=lfs diff=lfs merge=lfs -text
 CS[[:space:]]major[[:space:]]courses/信号与系统分析实验/张洛宾_2024302696_实验一二三.docx filter=lfs diff=lfs merge=lfs -text
 Elective[[:space:]]courses/** -text
+General[[:space:]]education[[:space:]]courses/** -text
+General[[:space:]]education[[:space:]]courses/大学物理/第二章-质点动力学_202610271735_11051.pdf filter=lfs diff=lfs merge=lfs -text
+General[[:space:]]education[[:space:]]courses/大学物理/第一章-质点运动学_202610271734_58220.pdf filter=lfs diff=lfs merge=lfs -text
