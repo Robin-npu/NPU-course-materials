@@ -4,3 +4,6 @@ General[[:space:]]education[[:space:]]courses/思政实践课/思政实践.pptx 
 General[[:space:]]education[[:space:]]courses/微积分/微积分_202609111937_48186(1).pdf filter=lfs diff=lfs merge=lfs -text
 General[[:space:]]education[[:space:]]courses/习近平中国特色社会主义思想概论/膝盖(38).pdf filter=lfs diff=lfs merge=lfs -text
 General[[:space:]]education[[:space:]]courses/概率论与数理统计/概率论与数理统计总复习2025_202610271728_35499.pdf filter=lfs diff=lfs merge=lfs -text
+CS[[:space:]]major[[:space:]]courses/** -text
+CS[[:space:]]major[[:space:]]courses/模式识别与机器学习/模式识别6道作业题.zip filter=lfs diff=lfs merge=lfs -text
+CS[[:space:]]major[[:space:]]courses/信号与系统分析实验/张洛宾_2024302696_实验一二三.docx filter=lfs diff=lfs merge=lfs -text
